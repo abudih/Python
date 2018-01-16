@@ -105,6 +105,6 @@ def Loan():
             
             print("Interest per month in percentage(%):",format(interest,".2f"),"Interest value:$",format(interestperpaymentvalue,".2f"),"Balance:$",format(Balance,".2f")) #DISPLAY RESULTS IN 2 DECIMALS  
     
-main()                                                      #CALLS THE MAIN FUNCTION
+main()                                             
 
 
